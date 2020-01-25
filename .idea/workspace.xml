@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="581066cf-d005-4437-a0a2-a160d736ae29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/Audition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/Audition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/AuditionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vezbi_Kolok2/AuditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vezbi_Kolok2/AuditionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S6xQID7QxBzB0TRUhtOt1xWvRA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.AuditionTest">
+    <configuration name="AuditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AuditionTest" />
+      <module name="Napredno_zadaci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FootballTableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FootballTableTest" />
+      <module name="Napredno_zadaci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vezbi_Kolok2.NamesTest" />
+      <module name="Napredno_zadaci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vezbi_Kolok2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TermFrequencyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TermFrequencyTest" />
+      <module name="Napredno_zadaci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Napredno_zadaci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TermFrequencyTest (1)" />
+      <item itemvalue="Application.FootballTableTest" />
+      <item itemvalue="Application.NamesTest" />
+      <item itemvalue="Application.AuditionTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AuditionTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FootballTableTest" />
+        <item itemvalue="Application.NamesTest" />
+        <item itemvalue="Application.TermFrequencyTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="581066cf-d005-4437-a0a2-a160d736ae29" name="Default Changelist" comment="" />
+      <created>1570897830987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570897830987</updated>
+      <workItem from="1570897839983" duration="179000" />
+      <workItem from="1570898631105" duration="1210000" />
+      <workItem from="1570953450808" duration="4525000" />
+      <workItem from="1571071139672" duration="596000" />
+      <workItem from="1571086662213" duration="876000" />
+      <workItem from="1571095379736" duration="11954000" />
+      <workItem from="1571412971328" duration="3958000" />
+      <workItem from="1571602769788" duration="5156000" />
+      <workItem from="1572196183140" duration="12552000" />
+      <workItem from="1573240692188" duration="2423000" />
+      <workItem from="1573495586963" duration="769000" />
+      <workItem from="1573590773452" duration="4470000" />
+      <workItem from="1573650487943" duration="3912000" />
+      <workItem from="1573664229381" duration="18998000" />
+      <workItem from="1573760207778" duration="641000" />
+      <workItem from="1573770700779" duration="153000" />
+      <workItem from="1574282212310" duration="5842000" />
+      <workItem from="1574379191729" duration="2848000" />
+      <workItem from="1574610675771" duration="31000" />
+      <workItem from="1574622568481" duration="3892000" />
+      <workItem from="1574634821841" duration="274000" />
+      <workItem from="1574698830641" duration="34000" />
+      <workItem from="1576715118692" duration="4636000" />
+      <workItem from="1576926673099" duration="1308000" />
+      <workItem from="1576965142468" duration="3424000" />
+      <workItem from="1577279468042" duration="269000" />
+      <workItem from="1577407905156" duration="6714000" />
+      <workItem from="1577555554085" duration="12000" />
+      <workItem from="1577665611316" duration="36000" />
+      <workItem from="1577665723339" duration="175000" />
+      <workItem from="1577666301294" duration="2300000" />
+      <workItem from="1577753097580" duration="8918000" />
+      <workItem from="1577987861353" duration="5173000" />
+      <workItem from="1578011144408" duration="6338000" />
+      <workItem from="1578090111977" duration="6860000" />
+      <workItem from="1578267198236" duration="2097000" />
+      <workItem from="1578597087121" duration="7050000" />
+      <workItem from="1578688702447" duration="16146000" />
+      <workItem from="1579903094575" duration="205000" />
+      <workItem from="1579913739871" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1210" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1578709703353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="968" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578095721014" />
+    <state x="1210" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1578659650511" />
+    <state x="1210" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578709703353" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1579903296606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579903296606" />
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1579903301171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579903301171" />
+    <state width="914" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1579903301171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579903301171" />
+    <state width="914" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1579903301171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579903301171" />
+    <state width="914" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1579903301171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579903301171" />
+    <state width="914" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state width="914" height="297" key="GridCell.Tab.1.bottom" timestamp="1578711135432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578271021793" />
+    <state width="914" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state width="914" height="297" key="GridCell.Tab.1.center" timestamp="1578711135432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578271021793" />
+    <state width="914" height="297" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state width="914" height="297" key="GridCell.Tab.1.left" timestamp="1578711135432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578271021793" />
+    <state width="914" height="297" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state width="914" height="297" key="GridCell.Tab.1.right" timestamp="1578711135432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578271021793" />
+    <state width="914" height="297" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578711135432" />
+    <state x="1086" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578659641121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1086" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1578659641121" />
+    <state x="1096" y="242" key="run.anything.popup" timestamp="1577753618535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="242" key="run.anything.popup/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1577753618535" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1578709274734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1578658087175" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578709274734" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab3/PizzaOrderTest.java</url>
+          <line>252</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab3/PizzaOrderTest.java</url>
+          <line>281</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lab3/PizzaOrderTest.java</url>
+          <line>253</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
