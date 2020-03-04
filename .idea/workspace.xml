@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="581066cf-d005-4437-a0a2-a160d736ae29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Streams/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IspitniZadaci/EvaluatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/StreamTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Napredno_zadaci/PhoneBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/PhoneBookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Napredno_zadaci/PhoneBookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/Streams/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Napredno_zadaci/Streams/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +69,16 @@
       <recent name="D:\Napredno_zadaci\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="AuditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AuditionTest" />
+  <component name="RunManager" selected="Application.StreamTest2">
+    <configuration name="EvaluatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IspitniZadaci.EvaluatorTest" />
       <module name="Napredno_zadaci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IspitniZadaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.StreamTest1" />
+    <configuration name="StreamTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.StreamTest2" />
       <module name="Napredno_zadaci" />
       <extension name="coverage">
         <pattern>
@@ -115,27 +122,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.Test" />
       <module name="Napredno_zadaci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.AuditionTest" />
       <item itemvalue="Application.StreamTest" />
-      <item itemvalue="Application.StreamTest1" />
       <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.EvaluatorTest" />
+      <item itemvalue="Application.StreamTest2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamTest2" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.EvaluatorTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.StreamTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StreamTest1" />
-        <item itemvalue="Application.AuditionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +222,8 @@
       <workItem from="1582304179769" duration="4977000" />
       <workItem from="1582833021057" duration="79000" />
       <workItem from="1583163573046" duration="270000" />
-      <workItem from="1583164060638" duration="3536000" />
+      <workItem from="1583164060638" duration="4803000" />
+      <workItem from="1583273772215" duration="6899000" />
     </task>
     <servers />
   </component>
@@ -230,26 +244,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582833092755" />
-    <state width="1877" height="213" key="GridCell.Tab.0.bottom" timestamp="1583168181681">
+    <state width="995" height="214" key="GridCell.Tab.0.bottom" timestamp="1583280949056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="723" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582309191265" />
-    <state width="1877" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583168181681" />
-    <state width="1877" height="213" key="GridCell.Tab.0.center" timestamp="1583168181681">
+    <state width="995" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583280949056" />
+    <state width="995" height="214" key="GridCell.Tab.0.center" timestamp="1583280949056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="723" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582309191265" />
-    <state width="1877" height="213" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583168181681" />
-    <state width="1877" height="213" key="GridCell.Tab.0.left" timestamp="1583168181681">
+    <state width="995" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583280949056" />
+    <state width="995" height="214" key="GridCell.Tab.0.left" timestamp="1583280949056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="723" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582309191265" />
-    <state width="1877" height="213" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583168181681" />
-    <state width="1877" height="213" key="GridCell.Tab.0.right" timestamp="1583168181681">
+    <state width="995" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583280949056" />
+    <state width="995" height="214" key="GridCell.Tab.0.right" timestamp="1583280949056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="723" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582309191265" />
-    <state width="1877" height="213" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583168181681" />
+    <state width="995" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583280949056" />
     <state width="914" height="297" key="GridCell.Tab.1.bottom" timestamp="1578711135432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
