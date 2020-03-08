@@ -44,10 +44,14 @@ public class Test {
 
         List<Integer> list = Arrays.asList(1, 1, 2, 3, 3, 4, 5, 5);
 
+//        Integer sum =  list.stream()
+//                .filter(x -> (list.stream().filter(y -> x == y).count() == 1))
+//                .mapToInt(Integer::intValue)
+//                .sum();
+
         Integer sum =  list.stream()
                 .filter(x -> (list.stream().filter(y -> x == y).count() == 1))
-                .mapToInt(Integer::intValue)
-                .sum();
+                .collect(Collectors.summingInt(x -> x));
 
         System.out.println(sum);
 
