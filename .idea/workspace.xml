@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="581066cf-d005-4437-a0a2-a160d736ae29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IspitniZadaci/EvaluatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/StreamTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Napredno_zadaci/Streams/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Napredno_zadaci/Streams/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,6 +220,8 @@
       <workItem from="1583163573046" duration="270000" />
       <workItem from="1583164060638" duration="4803000" />
       <workItem from="1583273772215" duration="6899000" />
+      <workItem from="1583353655794" duration="851000" />
+      <workItem from="1583618093955" duration="599000" />
     </task>
     <servers />
   </component>
